@@ -1,0 +1,52 @@
+{
+  "quizzes": [
+    {
+      "id": "quiz_lion",
+      "video_path": "videos/lion.mp4",
+      "question_text": "What animal is this?",
+      "options": [
+        "Lion",
+        "Tiger",
+        "Leopard"
+      ],
+      "correct_index": 0,
+      "feedback_audio": {
+        "correct": "sounds/correct.wav",
+        "incorrect": "sounds/wrong.wav"
+      },
+      "difficulty": "easy"
+    },
+    {
+      "id": "quiz_bee",
+      "video_path": "videos/bee.mp4",
+      "question_text": "What insect is this?",
+      "options": [
+        "Butterfly",
+        "Bee",
+        "Wasp"
+      ],
+      "correct_index": 1,
+      "feedback_audio": {
+        "correct": "sounds/correct.wav",
+        "incorrect": "sounds/wrong.wav"
+      },
+      "difficulty": "medium"
+    },
+    {
+      "id": "quiz_eagle",
+      "video_path": "videos/eagle.mp4",
+      "question_text": "What bird is this?",
+      "options": [
+        "Hawk",
+        "Eagle",
+        "Falcon"
+      ],
+      "correct_index": 1,
+      "feedback_audio": {
+        "correct": "sounds/correct.wav",
+        "incorrect": "sounds/wrong.wav"
+      },
+      "difficulty": "medium"
+    }
+  ]
+}
